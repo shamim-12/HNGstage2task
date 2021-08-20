@@ -7,17 +7,14 @@
 html{
     font-size: 62.5%;
 }
-
-
 body{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     font-size: 2.4rem;
     background-color: rgb(212, 191, 191);
-
+    overflow: auto;
 }
-
 .hng{
     width:30%;
     height: auto;
